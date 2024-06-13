@@ -266,7 +266,7 @@ KreirajLabelPickup()
 {
 	for(new labelpickup_id = 0; labelpickup_id < sizeof(kupovina_dnevne); labelpickup_id++)
 	{
-		CreatePickup(1257, 1, kupovina_dnevne[labelpickup_id][0], kupovina_dnevne[labelpickup_id][1], kupovina_dnevne[labelpickup_id][2]);
+		CreatePickup(19606, 1, kupovina_dnevne[labelpickup_id][0], kupovina_dnevne[labelpickup_id][1], kupovina_dnevne[labelpickup_id][2]);
 		Create3DTextLabel("Tramvaj\n\
 						   {FFFFFF}Da uzmete dnevnu kartu stisnite\n( Y )", 0xFF2200FF, kupovina_dnevne[labelpickup_id][0], kupovina_dnevne[labelpickup_id][1], kupovina_dnevne[labelpickup_id][2], 25,0,1);
 	}
