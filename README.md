@@ -1,5 +1,5 @@
 # basic-tram-system
-Basic Tram system by twoblqck (13/6/24)<br>
+Basic Tram system, twoblqck.art (13/6/24)<br>
 Vrijeme izrade: cc. 5h <br><br>
 Slike:<br>
 Mjesto kupovine dnevne karte.
